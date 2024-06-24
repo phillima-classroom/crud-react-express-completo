@@ -24,4 +24,5 @@ Para utilizar o código seguido os passos:
       - Irá gerar um valor de 64Bytes em Hexadecimal
       - Copiar e inserir como valor de TOKEN=```valor-gerado``` no arquivo ```.env```
 - Exemplo arquivo ```.env```
+![Arquivo .env](/token.png)
 
